@@ -1,7 +1,7 @@
 package paquete;
 
 public class Clase {
-	private int edad;
+	private float edad;
 
 	
 	public Clase() {
